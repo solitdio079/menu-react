@@ -1,0 +1,133 @@
+{
+    "commonItems": [
+        {
+            "name": "Pilav",
+            "price": "150",
+            "description": ""
+        },
+        {
+            "name": "Patates Kızartması",
+            "price": "85",
+            "description": ""
+        },
+        {
+            "name": "Patates Püresi",
+            "price": "85",
+            "description": ""
+        },
+        {
+            "name": "Köz Biber",
+            "price": "15",
+            "description": ""
+        },
+        {
+            "name": "Domates",
+            "price": "20",
+            "description": ""
+        }
+    ],
+    "mainDishes": [
+        {
+            "name": "Tas Kebabı",
+            "price": "1000",
+            "description": "",
+            "image": "/assets/tas.webp"
+        },
+        {
+            "name": "Tavuk Sote",
+            "price": "850",
+            "description": "",
+            "image": "/assets/tavuk.webp"
+        },
+        {
+            "name": "Et Sote",
+            "price": "1000",
+            "description": "",
+            "image": "/assets/et.webp"
+        },
+        {
+            "name": "Kiremit Köfte",
+            "price": "900",
+            "description": "",
+            "image": "/assets/kiremit.webp"
+        }
+    ],
+    "inBetweens": [
+        {
+            "name": "Peynirli Su Böreği",
+            "price": "150",
+            "description": ""
+        }
+    ],
+    "salads": [
+        {
+            "name": "Mevsim Salatası",
+            "price": "130",
+            "description":""
+        }
+
+    ],
+    "soups": [
+        {
+            "name": "Tereyağlı Mercimek Çorbası",
+            "price": "150",
+            "description": ""
+        }
+    ],
+    "aperos": [
+        {
+            "name": "Havuş Tarator",
+            "price": "100",
+            "description": ""
+        },
+        {
+            "name": "Hurma",
+            "price": "50",
+            "description": ""
+        },
+        {
+            "name": "Kayısı",
+            "price": "50",
+            "description": ""
+        },
+        {
+            "name": "Reçel",
+            "price": "50",
+            "description": ""
+        },
+        {
+            "name": "Zeytin",
+            "price": "50",
+            "description": ""
+        },
+        {
+            "name": "Peynir",
+            "price": "50",
+            "description": ""
+        }
+    ],
+    "desserts": [
+        {
+            "name":"Baklava",
+            "price": "250",
+            "description": ""
+        }
+    ],
+    "drinks": [
+        {
+            "name": "Meşrubat",
+            "price": "200",
+            "description": ""
+        },
+        {
+            "name": "Su",
+            "price": "100",
+            "description": ""
+        },
+        {
+            "name": "Çay",
+            "price": "70",
+            "description": ""
+        }
+    ]
+}
