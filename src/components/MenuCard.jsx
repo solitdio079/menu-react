@@ -1,4 +1,4 @@
-export default function MenuCard({imgSrc, name, description}) {
+export default function MenuCard({imgSrc, name, description,children}) {
     return (<>
         <div className="card sm:max-w-sm">
             <figure><img src={imgSrc} alt={name} /></figure>
@@ -6,7 +6,7 @@ export default function MenuCard({imgSrc, name, description}) {
                 <h5 className="card-title mb-2.5"> {name} </h5>
                 <p className="mb-4"> {description} </p>
                 <div className="card-actions">
-                    <button className="btn btn-primary"> <span className="icon-[tabler--eye]"></span> </button>
+                  {children}
                 </div>
             </div>
         </div>
