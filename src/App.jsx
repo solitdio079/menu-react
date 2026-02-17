@@ -35,11 +35,11 @@ function App() {
   }, [location.pathname]);
 
   return (
-    <>
+    <div data-theme="light">
     <Navbar />
     <div className='mb-16'></div>
     <Outlet />
-    </>
+    </div>
   );
 }
 
