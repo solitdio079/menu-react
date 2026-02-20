@@ -14,7 +14,7 @@ export default function Navbar() {
                     </div>
                 </div>
                 <div id="navbar-collapse" className="navbar-end items-center collapse grow basis-full overflow-hidden transition-[height] duration-300 max-md:w-full" >
-                   <a href='https://wa.me/905364613555'> <button className="btn btn-success"> <span className='icon-[tabler--brand-whatsapp]'></span> Sipariş Ver</button> </a>
+                   <a href='https://wa.me/905316188679'> <button className="btn btn-success"> <span className='icon-[tabler--brand-whatsapp]'></span> Sipariş Ver</button> </a>
                 </div>
             </div>
         </nav>
