@@ -29,28 +29,28 @@
     "mainDishes": [
         {
             "name": "Tas Kebabı Menü",
-            "price": "1000",
+            "price": "900",
             "description": "İftariye tabağı, tas kebabı, pilav, köz biber, domates, içecek ve tatlıdan oluşan menü",
             "image": "/assets/tas.webp",
             "excluded":"2"
         },
         {
             "name": "Tavuk Sote Menü",
-            "price": "850",
+            "price": "700",
             "description": "İftariye tabağı, tavuk sote, pilav, köz biber, domates, içecek ve tatlıdan oluşan menü",
             "image": "/assets/tavuk.webp",
             "excluded":"1"
         },
         {
             "name": "Et Sote Menü",
-            "price": "1000",
+            "price": "850",
             "description": "İftariye tabağı, et sote, pilav, köz biber, domates, içecek ve tatlıdan oluşan menü",
             "image": "/assets/et.webp",
             "excluded":"1"
         },
         {
             "name": "Kiremit Köfte Menü",
-            "price": "900",
+            "price": "750",
             "description": "İftariye tabağı, kiremit köfte, pilav, köz biber, domates, içecek ve tatlıdan oluşan menü",
             "image": "/assets/kiremit.webp",
             "excluded":"2"
